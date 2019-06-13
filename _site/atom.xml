@@ -4,7 +4,7 @@
  <title>Realjin Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-06-12T02:14:03+09:00</updated>
+ <updated>2019-06-13T22:16:55+09:00</updated>
  <author>
    <name>realjin</name>
    <uri>https://realjin.co.kr</uri>
@@ -29,47 +29,6 @@
    <id>http://localhost:4000/적막을-깨는-사무실-소리</id>
    <updated>2019-06-01T12:00:00+09:00</updated>
    <content type="html">&lt;h3 id=&quot;왜불러&quot;&gt;왜불러.&lt;/h3&gt; &lt;h6 id=&quot;삭막한-분위기는-싫지만-내게-바쁘냐고-묻는-건-더-싫다&quot;&gt;삭막한 분위기는 싫지만, 내게 바쁘냐고 묻는 건 더 싫다.&lt;/h6&gt; &lt;p&gt;조용한 회사 분위기를 좋아하는 사람도 있고, 시끌벅적한 분위기를 좋아하는 사람도 있을테지만,&lt;/p&gt; &lt;p&gt;아무래도 ‘적당히’한 분위기가 유지하는 것이 모두가 가장 선호하는 분위기가 아닐까 싶다.&lt;/p&gt; &lt;p&gt;하지만 그 중에서도 가장 무서운 소리는 오전 출근 후 나를 향해 묻는 ‘오늘 바빠?’ 라는 말이다.&lt;/p&gt;...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Small text</title>
-   <link href="http://localhost:4000/2019/03/18/small-text/"/>
-   <id>http://localhost:4000/2019/03/18/small-text</id>
-   <updated>2019-03-18T00:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;This is an example of a blog post with small amount of text.&lt;/p&gt;
-</content>
- </entry>
-
- 
-
- <entry>
-   <title>Typograhy example</title>
-   <link href="http://localhost:4000/2015/03/19/typography/"/>
-   <id>http://localhost:4000/2015/03/19/typography</id>
-   <updated>2015-03-19T00:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/emerald/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Code Syntax</title>
-   <link href="http://localhost:4000/2015/03/01/code-syntax/"/>
-   <id>http://localhost:4000/2015/03/01/code-syntax</id>
-   <updated>2015-03-01T00:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Hello World</title>
-   <link href="http://localhost:4000/2015/02/10/hello-world/"/>
-   <id>http://localhost:4000/2015/02/10/hello-world</id>
-   <updated>2015-02-10T00:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem,...</content>
  </entry>
 
  
