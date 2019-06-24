@@ -4,6 +4,8 @@
 // Based on the typographic scale: 12, 14, 16, 18, 21, 24, 36, 48, 60, 72.
 //
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap&subset=cyrillic,latin-ext');
+
 
 body {
 	font-family: 'Noto Sans KR', sans-serif;
@@ -19,6 +21,7 @@ p, ul, ol {
 }
 
 h1 {
+
 	font-size: 2.25em; /* 36px/16px */
 	line-height: 1.3333em; /* 48px/36px */
 	padding: 0.33335em 0; /* 12px/36px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
@@ -61,6 +64,7 @@ p, ul, ol {
 }
 
 h1 {
+
 	font-size: 2.6667em; /* 48px/18px */
 	line-height: 1em; /* 48px/48px */
 	padding: 0.25em 0; /* 12px/48px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
