@@ -4,7 +4,7 @@ layout: default
 <article id="post-page">
 	{% if page.image.feature %}
 		  <img src="{{ site.url }}/img/{{ page.image.feature }}">
-		{% endif %}	
+		{% endif %}
 	<h2>{{ page.title }}</h2>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
@@ -13,4 +13,9 @@ layout: default
 
 	</div>
 </article>
+<script>
+	fbq('track', 'ViewContent',{
+	title : "{{ page.title }}"
+	});
+</script>
 {% include disqus.html %}
