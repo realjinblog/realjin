@@ -13,5 +13,11 @@ layout: default
 
 	</div>
 </article>
-
+<script>
+   dataLayer.push({
+     'event' : 'viewContent',
+     'postTitle' : '{{ page.title }}',
+      'postid' : '{{ page.content_id }}'
+      })
+</script>
 {% include disqus.html %}
