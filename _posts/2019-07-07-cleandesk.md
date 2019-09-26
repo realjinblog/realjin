@@ -1,5 +1,5 @@
 ---
-content_id : num4
+content_id : 4
 layout: post
 title: 치워도 치워도 지저분한 이유는? 회사 책상정리는 어려워!
 date: 2019-07-07

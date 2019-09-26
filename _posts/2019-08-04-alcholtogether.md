@@ -1,5 +1,5 @@
 ---
-content_id : num5
+content_id : 5
 layout: post
 title: 나는 회식자리가 너무 힘들다.
 date: 2019-08-04

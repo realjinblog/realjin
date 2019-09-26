@@ -1,5 +1,5 @@
 ---
-content_id : num2
+content_id : 2
 layout: post
 title: 우리회사는 왜 구내식당이 없는 가. ‘오늘 뭐 먹지?’ 의 굴레
 date: 2019-06-11
